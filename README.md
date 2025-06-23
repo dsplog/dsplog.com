@@ -1,8 +1,11 @@
-## Code for the Website [https://dsplog.com](https://dsplog.com)
+## Codes referred in the blog on SignalProcessing and AI [https://dsplog.com](https://dsplog.com)
 
-This repository organizes code snippets referred to in the articles and tutorials on the website [https://dsplog.com](https://dsplog.com).
+This repository organizes code snippets referred to in the articles on the website [https://dsplog.com](https://dsplog.com).
 
 ## Code Organization
+
+### [Multiclass classification with Softmax](code/gradients_multiclass_classification/)
+Read the detailed article : [Gradients for multiclass classification with Softmax](https://dsplog.com/2025/06/22/gradients-for-multi-class-classification-with-softmax/)
 
 ### [BPSK Bit Error Rate](code/bpsk_bit_error_rate/)
 
